@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "web-clone": {
+      "source": "IAPro-Community/Orquestrador-Maestro",
+      "sourceType": "github",
+      "skillPath": "codex/skills/web-clone/SKILL.md",
+      "computedHash": "7f9300224aa3b35554316928f566948e6ebdb1fbaaeb5ebf388af1c885ad4631"
+    }
+  }
+}
