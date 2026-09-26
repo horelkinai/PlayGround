@@ -1,0 +1,13 @@
+{
+  "name": "israel-1-plus-1-workspace",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "npm --prefix israel-1-plus-1 run dev",
+    "start": "npm --prefix israel-1-plus-1 run start",
+    "build": "npm --prefix israel-1-plus-1 run build",
+    "preview": "npm --prefix israel-1-plus-1 run preview",
+    "typecheck": "npm --prefix israel-1-plus-1 run typecheck",
+    "lint": "npm --prefix israel-1-plus-1 run lint"
+  }
+}
